@@ -1,17 +1,17 @@
-# Guide to starting an ESS-DIVE Community Repository
+# Guide to starting an contributing to an ESS-DIVE Community Repository
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
-This is a meta-repository that will help users of the ESS-DIVE community repository become familiar with the typical workflows involved in starting and contributing to repositories on this page.
+This is a meta-repository that will help users of the ESS-DIVE community GitHub space become familiar with the typical workflows involved in starting and contributing to repositories that you find in this GitHub space.
 
 ## Getting Started
-- We can provide a table of contents
-- With links to the other markdown documents contained in this repo
-- We can also link to the gitbook when we have setup gitbook integration.
+- This page provides a short introduction to the content in the repository's subfolders 
+- If you would like to learn how to suggest a comment or change to a repository click here
+- For instructions on creating a new community repository click here
 
 ## The purpose of this repository
 
-The purpose of this repository is to get you familiar with the process for starting and then managing a community repository.  The purpose of *your* repository can be up to you. You could be developing a data reporting standard for files that are eventually stored in the ESS-DIVE repository. You could be working on scripts that interact with our API. Whatever your project, this guide will show you how to set-up a community repository, the key ingredients to a repository (aka "repo"), and how to maintain the repo once you have uploaded the content to github.
+The purpose of this repository is to get you familiar with the process for starting and then maintaining a community repository.  The purpose of *your* repository can be up to you. You could be developing a data reporting standard for files that are eventually stored in the ESS-DIVE repository. You could be working on scripts that interact with our API. Whatever your project, this guide will show you how to set-up a community repository, the key ingredients to a repository (aka "repo"), and how to maintain the repo once you have uploaded the content to github.
 
 First, 
 
