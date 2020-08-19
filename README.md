@@ -1,8 +1,3 @@
----
-title: "Guide to contributing"
-output: html_document
----
-
 # Guide to starting an ESS-DIVE Community Repository
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
