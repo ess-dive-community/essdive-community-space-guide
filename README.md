@@ -23,9 +23,14 @@ The first step for anyone interested in contributing to the ESS-DIVE GitHub comm
 Then, login and navigate to our ESS-DIVE Community Space on GitHub https://github.com/ess-dive-community
 
 ##  Suggesting changes to an existing repository
-If you would like to suggest changes to this, or any other repository on our community page, the best way to do so is by submitting a GitHub "issue "repository to you submit an issue by clicking the "issue" link toward the top of this repository's page.  We'll explain more about issues in a later chapter. You can also email us at ESS-DIVE support with questions related to this page or to anything else ESS-DIVE related.
+If you would like to suggest changes to this, or any other repository on our community page, the best way to do so is by submitting a GitHub "issue "repository to you submit an issue by clicking the "issue" link toward the top of this repository's page. You can also email us at ESS-DIVE support with questions related to this page or to anything else ESS-DIVE related.
 
 ![](images/issues_image_1.png)
+
+
+## Starting a new repository
+
+All new repositories should be initiated with a README.md file. These files give the reader important context for your GitHub repository. We have compiled a template README.md file which you can view [here](template_for_README.md) .
 
 ## Copyright information  
 Placeholder for copyright information about the Community Space
