@@ -1,7 +1,3 @@
----
-bibliography: community-repo-literature.bib
----
-
 # Guide to the ESS-DIVE Community Repository
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
