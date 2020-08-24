@@ -4,8 +4,6 @@
 
 This is a meta-repository that will help users of the ESS-DIVE community GitHub space become familiar with the typical workflows involved in starting and contributing to repositories in this Community GitHub space.
 
-I've added this line of text in the local copy of the testing branch on my computer.
-
 ## Table of contents
 - [Purpose of the repository](#the-purpose-of-this-repository)
 - [How to contribute](#how-to-contribute)
