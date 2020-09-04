@@ -1,10 +1,8 @@
-![GitHub issues](https://img.shields.io/github/issues/ess-dive-community/essdive-community-space-guide)  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ess-dive-community/essdive-community-space-guide)
-
-# Guide to the ESS-DIVE Community Repository
+# Guide to the ESS-DIVE Community Space
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
-This is a meta-repository that will help users of the ESS-DIVE community GitHub space become familiar with the typical workflows involved in starting and contributing to repositories in this Community GitHub space.
+This is a meta-repository for users of the ESS-DIVE community GitHub space. The purpose of this repository is so that users can become familiar with the typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
 
 ## Table of contents
 - [Purpose of the repository](#the-purpose-of-this-repository)
@@ -14,7 +12,7 @@ This is a meta-repository that will help users of the ESS-DIVE community GitHub 
 
 ## The purpose of this repository
 
-The ESS-DIVE GitHub Community Space was started to provide a location where the ESS-DIVE user community can upload documents, codes, and tools related to the [ESS-DIVE repository](http://ess-dive.lbl.gov/). We designed this meta-repository so that ESS-DIVE contributors can familiarize themselves with the process of contributing to an existing ESS-DIVE related GitHub repository or establishing and maintaining a new GitHub repository.
+The ESS-DIVE GitHub Community Space was started to provide a location where the ESS-DIVE user community can upload documents, codes, and tools related to the [ESS-DIVE repository](http://ess-dive.lbl.gov/). We designed this meta-repository so that ESS-DIVE contributors can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.
 
 ## How to contribute
 ### Setting up a  GitHub account  
