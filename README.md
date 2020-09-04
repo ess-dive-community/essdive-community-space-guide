@@ -1,3 +1,5 @@
+![GitHub issues](https://img.shields.io/github/issues/ess-dive-community/essdive-community-space-guide)  ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/ess-dive-community/essdive-community-space-guide)
+
 # Guide to the ESS-DIVE Community Repository
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
