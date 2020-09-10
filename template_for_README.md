@@ -9,16 +9,25 @@ The getting started section of your repository can contain a table of contents l
 
 > Include details about how to link table of contents?
 
+## How to contribute  
+Provide details here to let reader know how to suggest modifications to your repository. We recommend that you give a direct link to your [GitHub issues page](https://github.com/ess-dive-community/community-repo-guide/issues).
+
 ## About the [reporting format, computer code, tool]
 
 We suggest your README.md file contain a short description of your repository. This can be place either directly under the title of your README file as we wrote the few sentences above or you can write a description under an "About" heading like I have listed here.
 
-## How to contribute
-Provide details here to let reader know how to suggest modifications to your repository. We recommend that you give a direct link to your [GitHub issues page](https://github.com/ess-dive-community/community-repo-guide/issues).
-
 ## Copyright information
+There are many options for choosing a data use license. GitHub has put together a helpful guide on repository licensing: https://choosealicense.com/ If you eventually upload your repository as a complete data package to ESS-DIVE, the data package will have a CC BY 4.0 license which allows sharing and adaptation as long as users provide attribution.
+
+If you need a computer code-specific license, we recommend looking into the BSD license: https://opensource.org/licenses
 
 ## Funding and acknowledgements
+If your contribution to the ESS-DIVE Community space please use the following acknowledgement
+
+>ESS-DIVE is funded by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231. 
+
+If your contribution used NERSC resources
+>ESS-DIVE uses resources of the National Energy Research Scientific Computing Center (NERSC), a DOE Office of Science User Facility operated under Contract No. DE-AC02-05CH11231. 
 
 ## Recommended citation
 
