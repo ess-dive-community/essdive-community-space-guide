@@ -10,7 +10,7 @@ This is a meta-repository for users of the ESS-DIVE community GitHub space. The 
 - [Suggesting changes to an existing repository](#suggesting-changes-to-an-existing-repository)
 - [Starting a new repository](#starting-a-new-repository)
 
-## The purpose of the community space
+## The purpose of the Community Space
 
 The ESS-DIVE GitHub Community Space was started to provide a location where the ESS-DIVE user community can upload documents, codes, and tools related to the [ESS-DIVE repository](http://ess-dive.lbl.gov/). We designed this meta-repository so that ESS-DIVE contributors can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.
 
