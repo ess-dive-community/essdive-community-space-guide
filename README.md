@@ -2,21 +2,21 @@
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
-This is a meta-repository for users of the ESS-DIVE community GitHub space. The purpose of this repository is so that users can become familiar with the typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
+This is a meta-repository for users of the ESS-DIVE community GitHub space. The purpose of this repository is to help users become familiar with the typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
 
 ## Table of contents
-- [Purpose of the repository](#the-purpose-of-this-repository)
+- [Purpose of the Community Space](#the-purpose-of-the-community-space)
 - [How to contribute](#how-to-contribute)
-- Commenting on existing repositories
-- Starting a new repository
+- [Suggesting changes to an existing repository](#suggesting-changes-to-an-existing-repository)
+- [Starting a new repository](#starting-a-new-repository)
 
-## The purpose of this repository
+## The purpose of the community space
 
 The ESS-DIVE GitHub Community Space was started to provide a location where the ESS-DIVE user community can upload documents, codes, and tools related to the [ESS-DIVE repository](http://ess-dive.lbl.gov/). We designed this meta-repository so that ESS-DIVE contributors can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.
 
 ## How to contribute
-### Setting up a  GitHub account  
-The first step for anyone interested in contributing to the ESS-DIVE GitHub community space is to go to the [GitHub website] and create a GitHub account or sign in if you already have an account. 
+### Setting up a  GitHub account 
+The first step for anyone interested in contributing to the ESS-DIVE GitHub community space is to go to the [GitHub website](https://github.com/) and create a GitHub account or sign in if you already have an account. 
 
 ![image of github signup page](images/github_signup.png)
 
@@ -51,10 +51,12 @@ Your last step before creating your repository is to create a README file. By ch
 README files give the reader important context for your GitHub repository. For more information on the type of content you can provide in your README file, we have compiled a template README.md file which you can view [here](template_for_README.md).
 
 ## Copyright information  
-Placeholder for copyright information about the Community Space
+Copyright information about the Community Space will be updated soon
 
 ## Funding and acknowledgements  
-Placeholder for ESS-DIVE funding information
+ESS-DIVE is funded by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231. 
+
+ESS-DIVE uses resources of the National Energy Research Scientific Computing Center (NERSC), a DOE Office of Science User Facility operated under Contract No. DE-AC02-05CH11231. 
 
 ## Recommended citation  
-Placeholder for recommended citation once we upload this as a data package to the ESS-DIVE repository
+Recommended citation will be updated when this repository is stored in the ESS-DIVE repository
