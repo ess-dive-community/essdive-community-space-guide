@@ -1,3 +1,6 @@
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/essdive-community-space-guide)
+
+
 # Guide to the ESS-DIVE Community Space
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
