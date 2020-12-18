@@ -23,15 +23,22 @@ We designed this meta-repository so that contributors to the Community Space can
 
 --- 
 ## How to contribute to this repository
-The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.
+The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.  We have provided a set of issue templates on our [GitHub Issues page](https://github.com/ess-dive-community/essdive-community-space-guide/issues/new/choose) which will help us track and respond to any suggestions.
 
+We have based our issue templates on those used by the Darwin Core Biodiversity Standard:
+
+Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo. https://doi.org/10.5281/zenodo.592792
+
+---  
 ## Copyright information  
-Copyright information about the Community Space will be updated soon
+*Copyright information about the Community Space will be updated soon*
 
+---
 ## Funding and acknowledgements  
 ESS-DIVE is funded by the U.S. Department of Energy, Office of Science, Office of Biological and Environmental Research, Climate and Environmental Science Division, Data Management program under contract number DE-AC02-05CH11231. 
 
 ESS-DIVE uses resources of the National Energy Research Scientific Computing Center (NERSC), a DOE Office of Science User Facility operated under Contract No. DE-AC02-05CH11231. 
 
-## Recommended citation  
-Recommended citation will be updated when this repository is stored in the ESS-DIVE repository
+---  
+## Recommended citation 
+*Recommended citation coming soon*
