@@ -1,57 +1,27 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) ![GitHub issues](https://img.shields.io/github/issues-raw/ess-dive-community/essdive-community-space-guide)
 
-
 # Guide to the ESS-DIVE Community Space
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
 This is a meta-repository for users of the ESS-DIVE community GitHub space. The contents of this repository will help users become familiar with typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
 
+---  
+
 ## Table of contents
-- Chapter 1 - An brief introduction to GitHub
-- Chapter 2 - Starting a new repository
-- Chapter 3 - Developing a data reporting format on GitHub
-- Chapter 4 - Submitting a data reporting format to ESS-DIVE
-
-## The purpose of the Community Space
-
-The ESS-DIVE GitHub Community Space was started to provide a location where the ESS-DIVE user community can upload documents, codes, and tools related to the [ESS-DIVE repository](http://ess-dive.lbl.gov/). We designed this meta-repository so that ESS-DIVE contributors can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.
+- [Chapter 1 - An brief introduction to GitHub](01_introduction.md)
+- [Chapter 2 - Starting a new repository](02__new_repository.md)
+- [Chapter 3 - Developing a data reporting format on GitHub](03_reporting_format_dev.md)
+- [Chapter 4 - Submitting a data reporting format to ESS-DIVE](04_reporting_format_pub.md)
 
 --- 
-## How to contribute
-### Setting up a  GitHub account 
-The first step for anyone interested in contributing to the ESS-DIVE GitHub community space is to go to the [GitHub website](https://github.com/) and create a GitHub account or sign in if you already have an account. 
 
-![image of github signup page](images/github_signup.png)
+## The purpose of the Community Space  
+ESS-DIVE started our GitHub Community Space to provide a location where the ESS-DIVE user community can upload documents, code, and tools related to the [ESS-DIVE data repository](http://ess-dive.lbl.gov/).  
 
-Then, login and navigate to our ESS-DIVE Community Space on GitHub https://github.com/ess-dive-community
+We designed this meta-repository so that contributors to the Community Space can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.  The chapters in this repository provide visitors with information on starting up a GitHub account or repository (Chapters 1 & 2) as well as developing and publishing data reporting formats with ESS-DIVE (Chapters 3 & 4).
 
-##  Suggesting changes to an existing repository
-If you would like to suggest changes to this, or any other repository in our community space, the best way to do so is by submitting a GitHub "issue". When someone submits an issue, the person or team managing the repository is notified, and then developers and the user community can collaborate on steps to solve the issue.   
-
-To submit an issue, first make sure you are logged into your GitHub account. Then, navigate to the repository you would like to submit an issue to. Click the "issue" link toward the top of this repository's page (shown below). If you are having any difficulties accessing a repository or submitting an issue, you can email us at ESS-DIVE support with questions.
-
-![](images/issues_image_1.png)
-
-## Starting a new repository
-We welcome new repositories from ESS-DIVE users that are creating software, documents, or tools related to the ESS-DIVE repository. Prior to creating a new repository, please email ESS-DIVE support to express your interest in contributing to the community space.
-
-When you are ready to start a new repository on the ESS-DIVE Community Space click the green "New" button on the Community Space homepage.
-
-![](images/start_repo_1.png)
-
-On the next screen, you will be prompted to create a name for your repository. We encourage you to pick a repository name that is short and **uses dashes between words**. For example, the name of this repository is community-repo-guide.
-
-![](images/repo_name.png)
-
-Scrolling down the page, you can enter a description for your repository and then choose whether your repository is public or private. In the interest of creating open and freely available community resources, we ask that all repositories are publicly available. 
-
-![](images/public_repo.png)
-
-Your last step before creating your repository is to create a README file. By checking this option, a README.md file will automatically appear in your new repository. 
-
-![](images/initialize_with_readme.png)
-
+--- 
 ## How to contribute to this repository
 The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.
 
