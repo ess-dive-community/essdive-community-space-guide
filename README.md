@@ -5,7 +5,6 @@
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
-<<<<<<< HEAD
 This is a meta-repository for users of the ESS-DIVE community GitHub space. The contents of this repository will help users become familiar with typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
 
 ## Table of contents
@@ -14,24 +13,11 @@ This is a meta-repository for users of the ESS-DIVE community GitHub space. The 
 - Chapter 3 - Developing a data reporting format on GitHub
 - Chapter 4 - Submitting a data reporting format to ESS-DIVE
 
---- 
-=======
-This is a meta-repository for users of the ESS-DIVE community GitHub space. The purpose of this repository is to help users become familiar with the typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
-
-## Table of contents
-- [Purpose of the Community Space](#the-purpose-of-the-community-space)
-- [How to contribute](#how-to-contribute)
-- [Suggesting changes to an existing repository](#suggesting-changes-to-an-existing-repository)
-- [Starting a new repository](#starting-a-new-repository)
->>>>>>> e446ed950c90055b83df035fbbcaebd12a4606aa
-
 ## The purpose of the Community Space
 
 The ESS-DIVE GitHub Community Space was started to provide a location where the ESS-DIVE user community can upload documents, codes, and tools related to the [ESS-DIVE repository](http://ess-dive.lbl.gov/). We designed this meta-repository so that ESS-DIVE contributors can familiarize themselves with the process of contributing to an existing GitHub repository or starting their own.
 
-<<<<<<< HEAD
 --- 
-=======
 ## How to contribute
 ### Setting up a  GitHub account 
 The first step for anyone interested in contributing to the ESS-DIVE GitHub community space is to go to the [GitHub website](https://github.com/) and create a GitHub account or sign in if you already have an account. 
@@ -65,7 +51,6 @@ Scrolling down the page, you can enter a description for your repository and the
 Your last step before creating your repository is to create a README file. By checking this option, a README.md file will automatically appear in your new repository. 
 
 ![](images/initialize_with_readme.png)
->>>>>>> e446ed950c90055b83df035fbbcaebd12a4606aa
 
 ## How to contribute to this repository
 The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.
