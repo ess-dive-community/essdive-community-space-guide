@@ -6,8 +6,9 @@ This is a meta-repository for users of the ESS-DIVE community GitHub space. The 
 
 ## Table of contents
 - Chapter 1 - An brief introduction to GitHub
-- Chatper 2 - Starting a new repository
-- Chatper 
+- Chapter 2 - Starting a new repository
+- Chapter 3 - Developing a data reporting format on GitHub
+- Chapter 4 - Submitting a data reporting format to ESS-DIVE
 
 --- 
 
@@ -18,7 +19,7 @@ The ESS-DIVE GitHub Community Space was started to provide a location where the 
 --- 
 
 ## How to contribute to this repository
-
+The easiest way to contribute to this repository, or any chapter within the repository, is by submitting a GitHub issue.
 
 ## Copyright information  
 Placeholder for copyright information about the Community Space
