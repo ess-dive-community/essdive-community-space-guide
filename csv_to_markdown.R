@@ -3,7 +3,11 @@ library(tidyverse)
 
 # Import the CSV file
 terms <-
+<<<<<<< HEAD
   read.csv("~/desktop/rs_data_reporting_format_BBL_SP.csv",
+=======
+  read.csv("~/desktop/template_for_term_list_parser_methods - new_header_names.csv",
+>>>>>>> e446ed950c90055b83df035fbbcaebd12a4606aa
            header = TRUE)
 head(terms)
 dim(terms)
@@ -54,10 +58,19 @@ for (i in 1:all_of(number_of_terms)) {
   mylist[[i]] <- terms[i,] %>%
     pivot_longer(
       cols = 1:all_of(number_of_columns),
+<<<<<<< HEAD
       names_to = "field name", # This is what you want your first rows called
       values_to = terms[i, 1]
     ) %>%
     slice(-1,)
+=======
+      # Can try adding in all_of(number_of_columns) to get column numbers
+      names_to = "data type", # This is what you want your first rows called
+      values_to = terms[i, 1]
+    ) %>%
+    slice(-1,)
+#  markdown_of_terms[[i]] <- cat(csv_to_md_table(as.data.frame(mylist[[i]])))
+>>>>>>> e446ed950c90055b83df035fbbcaebd12a4606aa
   cat(csv_to_md_table_with_bold(as.data.frame(mylist[[i]])))
 }
 
