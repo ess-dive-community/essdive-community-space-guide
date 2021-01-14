@@ -12,7 +12,8 @@ This is a meta-repository for users of the ESS-DIVE community GitHub space. The 
 - [Chapter 1 - An brief introduction to GitHub](01_introduction.md)
 - [Chapter 2 - Starting a new repository](02__new_repository.md)
 - [Chapter 3 - Developing a data reporting format on GitHub](03_reporting_format_dev.md)
-- [Chapter 4 - Submitting a data reporting format to ESS-DIVE](04_reporting_format_pub.md)
+- [Chapter 4 - A checklist for your reporting format deliverables](04_deliverable_checklist.md)
+- [Chapter 5 - Submitting a data reporting format to ESS-DIVE](05_reporting_format_pub.md)
 
 --- 
 
