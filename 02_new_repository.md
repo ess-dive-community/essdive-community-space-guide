@@ -1,6 +1,5 @@
 # Chapter 2 - Starting a new repository
 
-
 ## Starting a new repository
 We welcome new repositories from ESS-DIVE users that are creating software, documents, or tools related to the ESS-DIVE repository. Prior to creating a new repository, please email ESS-DIVE support to express your interest in contributing to the community space.
 
