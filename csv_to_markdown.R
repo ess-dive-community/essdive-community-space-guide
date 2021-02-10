@@ -3,26 +3,26 @@ library(tidyverse)
 
 # Import the CSV file
 terms <-
-  read.csv("~/desktop/CSV_dd_quick_guide.csv",
+  read.csv("~/desktop/template_for_term_list_parser.csv",
            header = TRUE)
 head(terms)
 dim(terms)
 
 ## First, create a function that will ultimately put our CSV file into markdown format
-csv_to_md_table <- function(df) {
-  paste0(
-    '|',
-    paste(names(df), collapse = '|'),
-    '|\n|',
-    paste(rep(':----------------------------------------------------', length(df)), collapse = '|'),
-    '|\n|',
-    paste(Reduce(function(x, y) {
-      paste(x, y, sep = '|')
-    }, df), collapse = '|\n|'),
-    '|\n',
-    '\n'
-  )
-}
+# csv_to_md_table <- function(df) {
+#   paste0(
+#     '|',
+#     paste(names(df), collapse = '|'),
+#     '|\n|',
+#     paste(rep(':----------------------------------------------------', length(df)), collapse = '|'),
+#     '|\n|',
+#     paste(Reduce(function(x, y) {
+#       paste(x, y, sep = '|')
+#     }, df), collapse = '|\n|'),
+#     '|\n',
+#     '\n'
+#   )
+# }
 
 csv_to_md_table_with_bold <- function(df) {
   paste0(
@@ -31,8 +31,8 @@ csv_to_md_table_with_bold <- function(df) {
     '|\n|',
     paste(rep(':----------------------------------------------------', length(df)), collapse = '|'),
     '|\n|',
-    paste(Reduce(function(x, y) { # This is where each of the terms starts
-      paste(x, y, sep = '|')
+    paste(Reduce(function(x,y) { # This is where each of the terms starts
+      paste0('**',x,'**','|',y) # This paste function makes sure that first element is bold
     }, df), collapse = '|\n|'),
     '|\n',
     '\n'
