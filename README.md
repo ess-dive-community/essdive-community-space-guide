@@ -4,7 +4,9 @@
 
 ![](http://ess-dive.lbl.gov/wp-content/themes/ess-dive/images/ess-dive-site-title-logo.png)
 
-This is a meta-repository for users of the ESS-DIVE community GitHub space. The contents of this repository will help users become familiar with typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
+This is a meta-repository for users of the ESS-DIVE community GitHub space.  
+
+The contents of this repository will help users become familiar with typical workflows involved in starting, maintaining, and contributing to repositories in this Community Space on GitHub.
 
 ---  
 
